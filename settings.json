@@ -1,7 +1,7 @@
 {
   "name": "Esclavo Zamuviense",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ZamuvaSlave",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
